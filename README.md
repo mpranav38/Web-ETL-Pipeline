@@ -290,7 +290,7 @@ python pipeline.py --help
 
 ## 📄 License
 
-MIT — free to use, modify, and distribute.
+MIT © 2026 Pranav Murali — free to use, modify, and distribute.
 
 ---
 
