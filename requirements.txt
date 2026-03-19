@@ -1,0 +1,21 @@
+# ETL Pipeline — Python Dependencies
+# Install with: pip install -r requirements.txt
+
+# HTTP & parsing
+requests>=2.31.0
+beautifulsoup4>=4.12.0
+lxml>=5.0.0              # Fast HTML/XML parser for bs4
+
+# Data processing
+pandas>=2.1.0
+openpyxl>=3.1.0          # Excel (.xlsx) read/write
+
+# Database output (loaders/db_loader.py)
+sqlalchemy>=2.0.0        # Required for DB loader
+psycopg2-binary>=2.9.0   # Only needed for PostgreSQL backend
+
+# Web dashboard (dashboard/app.py)
+flask>=3.0.0
+
+# Scheduled runs (pipeline.py --schedule flag)
+apscheduler>=3.10.0

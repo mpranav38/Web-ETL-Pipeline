@@ -1,0 +1,2 @@
+﻿latitude,longitude,generationtime_ms,utc_offset_seconds,timezone,timezone_abbreviation,elevation,hourly_units_time,hourly_units_temperature_2m,hourly_units_precipitation,hourly_units_windspeed_10m,source,source_url
+40.710335,-73.99308,0.2734661102294922,-14400,America/New_York,GMT-4,27.0,iso8601,°C,mm,km/h,weather_new_york,https://api.open-meteo.com/v1/forecast
